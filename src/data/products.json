@@ -1,0 +1,112 @@
+[
+    {
+      "title": "Tomate",
+      "description": "Lata de tomate al natural",
+      "price": "1000",
+      "thumbnails": "sin imagen",
+      "code": "a123",
+      "stock": "15",
+      "category": "Almacén",
+      "status": true
+    },
+    {
+      "title": "Harina",
+      "description": "Harina 000 x 1kg",
+      "price": "1200",
+      "thumbnails": "sin imagen",
+      "code": "a124",
+      "stock": "25",
+      "category": "Almacén",
+      "status": true
+    },
+    {
+      "title": "Aceite",
+      "description": "Aceite de girasol x 1lt",
+      "price": "2000",
+      "thumbnails": "sin imagen",
+      "code": "a125",
+      "stock": "10",
+      "category": "Almacén",
+      "status": true
+    },
+    {
+      "title": "Azúcar",
+      "description": "Azúcar Fronterita x 1kg",
+      "price": "1100",
+      "thumbnails": "sin imagen",
+      "code": "a126",
+      "stock": "15",
+      "category": "Almacén",
+      "status": true
+    },
+    {
+      "title": "Vino",
+      "description": "Vino Malbec 750cc",
+      "price": "1800",
+      "thumbnails": "sin imagen",
+      "code": "a127",
+      "stock": "5",
+      "category": "Bodega",
+      "status": true
+    },
+    {
+      "title": "Leche",
+      "description": "Leche Entera 1LT",
+      "price": "1500",
+      "thumbnails": "sin imagen",
+      "code": "a128",
+      "stock": "10",
+      "category": "Lácteos",
+      "status": true
+    },
+    {
+      "title": "Mayonesa",
+      "description": "La más RicKa",
+      "price": "2000",
+      "thumbnails": "Sin Imagen",
+      "code": "a129",
+      "stock": "10",
+      "category": "Almacén",
+      "status": true
+    },
+    {
+      "title": "Yogurt",
+      "description": "El más Probiótico",
+      "price": "1750",
+      "thumbnails": "Sin Imagen",
+      "code": "a130",
+      "stock": "5",
+      "category": "Lácteos",
+      "status": true
+    },
+    {
+      "title": "Pan",
+      "description": "Pan de Masa Madre",
+      "price": "1100",
+      "thumbnails": "Sin Imagen",
+      "code": "a131",
+      "stock": "9",
+      "category": "Almacén",
+      "status": true
+    },
+    {
+      "title": "Sal",
+      "description": "Sal Fina",
+      "price": "500",
+      "thumbnails": "Sin Imagen",
+      "code": "a132",
+      "stock": "14",
+      "category": "Almacén",
+      "status": true
+    },
+    {
+      "title": "Arroz",
+      "description": "Grano Largo",
+      "price": "1800",
+      "thumbnails": "Sin Imagen",
+      "code": "a133",
+      "stock": "18",
+      "category": "Almacén",
+      "status": true
+    }
+  ]
